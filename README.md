@@ -1,2 +1,2 @@
-Cílem  projektu je vytvořit funkční webovou aplikaci v Node.js
+Cílem  projektu je vytvořit funkční webovou aplikaci.
 
