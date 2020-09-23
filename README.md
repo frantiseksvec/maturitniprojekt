@@ -1,3 +1,3 @@
-#Cílem  projektu je vytvořit funkční webovou aplikaci Djangu .
+Cílem  projektu je vytvořit funkční webovou aplikaci Djangu .
 
 
